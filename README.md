@@ -1,4 +1,6 @@
-# AngularD3js
+# Angular D3.js
+
+![AngularD3js](https://keathmilligan.net/wp-content/uploads/2016/10/angular2-d3v4.gif)
 
 A simple example of a reusable chart component with D3.js and Angular.
 
