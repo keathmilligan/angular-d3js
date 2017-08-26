@@ -1,5 +1,9 @@
 # AngularD3js
 
+A simple example of a reusable chart component with D3.js and Angular.
+
+See https://keathmilligan.net/create-a-reusable-chart-component-with-angular-and-d3-js/ for more info.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
 ## Development server
